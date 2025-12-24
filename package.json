@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "newApp",
+=======
+  "name": "myApp",
+>>>>>>> 9a2b84d058563388d5146ff42d7f7631005287f6
   "version": "0.0.1",
   "author": "Ionic Framework",
   "homepage": "https://ionicframework.com/",
@@ -21,12 +25,20 @@
     "@angular/platform-browser": "^20.0.0",
     "@angular/platform-browser-dynamic": "^20.0.0",
     "@angular/router": "^20.0.0",
+<<<<<<< HEAD
+=======
+    "@capacitor-community/bluetooth-le": "^7.3.0",
+>>>>>>> 9a2b84d058563388d5146ff42d7f7631005287f6
     "@capacitor/app": "8.0.0",
     "@capacitor/core": "8.0.0",
     "@capacitor/haptics": "8.0.0",
     "@capacitor/keyboard": "8.0.0",
     "@capacitor/status-bar": "8.0.0",
     "@ionic/angular": "^8.0.0",
+<<<<<<< HEAD
+=======
+    "@ionic/pwa-elements": "^3.3.0",
+>>>>>>> 9a2b84d058563388d5146ff42d7f7631005287f6
     "ionicons": "^7.0.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",

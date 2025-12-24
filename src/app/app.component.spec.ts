@@ -1,21 +1,33 @@
 import { TestBed } from '@angular/core/testing';
 import { provideRouter } from '@angular/router';
+<<<<<<< HEAD
 
 import { AppComponent } from './app.component';
 
 describe('AppComponent', () => {
   beforeEach(async () => {
+=======
+import { AppComponent } from './app.component';
+
+describe('AppComponent', () => {
+  it('should create the app', async () => {
+>>>>>>> 9a2b84d058563388d5146ff42d7f7631005287f6
     await TestBed.configureTestingModule({
       imports: [AppComponent],
       providers: [provideRouter([])]
     }).compileComponents();
+<<<<<<< HEAD
   });
 
   it('should create the app', () => {
+=======
+    
+>>>>>>> 9a2b84d058563388d5146ff42d7f7631005287f6
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
     expect(app).toBeTruthy();
   });
+<<<<<<< HEAD
 
   it('should have menu labels', () => {
     const fixture = TestBed.createComponent(AppComponent);
@@ -40,4 +52,6 @@ describe('AppComponent', () => {
       '/folder/outbox'
     );
   });
+=======
+>>>>>>> 9a2b84d058563388d5146ff42d7f7631005287f6
 });

@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "newApp",
+=======
+  "name": "myApp",
+>>>>>>> 9a2b84d058563388d5146ff42d7f7631005287f6
   "integrations": {
     "capacitor": {}
   },
